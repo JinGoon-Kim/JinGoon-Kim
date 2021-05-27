@@ -2,6 +2,6 @@
 
 ![JinGoon-Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinGoon-Kim&show_icons=true&theme=dark)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinGoon-Kim&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinGoon-Kim&layout=compact&theme=dark)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=vrmarine)](https://solved.ac/vrmarine)
